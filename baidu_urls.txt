@@ -1,2 +1,3 @@
+/2020/04/12/we/
 /2020/04/12/hello-world/
 /2020/02/16/sort-algorithms/
